@@ -1,2 +1,4 @@
-Student name: ian
-Grade: n
+Student name: ian 
+Grade: c
+Student name: paul 
+Grade: d
